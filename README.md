@@ -1,14 +1,6 @@
 
-# 스프링 코어 학습
-- [스프링 프로젝트 설정 사이트](https://start.spring.io)
-- [라이버르리 다운로드 사이트](https://mvnrepository.com)
+# 학점 계산기
+- 이수학점 , 과목 등을 입력해 성적을 산출해주는 프로그램 입니다.
 
-## lombok 설정
-1. build.gradle -> dependencies에 추가
-
-```groovy
-	compileOnly 'org.projectlombok:lombok:1.18.12'
-annotationProcessor 'org.projectlombok:lombok:1.18.12'
-```
-
-2. 인텔리제이 SHIFT두번 눌러서 '플러그인' 검색 후 lombok 플러그인 설치
+## UPDATE
+- 프로그램화, 시간표 기능, 잡다한 버그 수정 예정
